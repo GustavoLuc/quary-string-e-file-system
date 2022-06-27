@@ -3,8 +3,8 @@ const queryString = require('query-string')
 const url = require('url');
 var fs = require('fs');
 
-const hostname = '127.0.0.1';
-const port = 4001;
+const hostname = 'https://gustavoluc.github.io/quary-string-e-file-system/';
+const port = 3001;
 
 const server = http.createServer((req, res) => {
 
