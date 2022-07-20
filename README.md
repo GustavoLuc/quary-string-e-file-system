@@ -1,2 +1,2 @@
 # quary-string-e-file-system
-testando quary string com file system
+enviando dados por quary string salvando, editando e atualizando
